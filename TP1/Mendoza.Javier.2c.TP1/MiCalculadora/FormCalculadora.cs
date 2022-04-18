@@ -59,7 +59,7 @@ namespace MiCalculadora
         }
 
         /// <summary>
-        /// Es la Lista donde se guardan las operaciones Hechas.
+        /// Es la Lista donde se guardan las operaciones realizadas.
         /// </summary>
         List<string> listaOperaciones = new List<string>();
 
